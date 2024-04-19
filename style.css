@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    background-color: aqua;
+}
+input,button,select{
+    border-radius: 1.5em;
+}
+.header{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+}
+body{
+    background-color: gray;
+}
+.header h1{
+    font-family: 'New Walt Disney Font', sans-serif;
+}
+.header button {
+    border-radius: 2em;
+    height: 3em;
+    background-color: #B5B5B5;
+    margin-top: 1em;
+    margin-right: 1em;
+}
+.find_movie{
+    display: flex;
+    justify-content: space-between;
+}
+.find_movie input,select{
+    border-radius: 2em;
+}
+.find_movie button{
+    border-radius: 2em;
+}
+.find_movie{
+    display: flex;
+    justify-content: center;
+}
+.admin_a{
+    color: black;
+    text-decoration: none;
+}
+.client a {
+    color: black;
+    text-decoration: none;
+}
+header img{
+    height: 10em;
+    width: 10em;
+}
+.pagination{
+    display: flex;
+    justify-content: center;
+}
+.seance_soon{
+    display: flex;
+    justify-content: center;
+}
+.form_membre{
+    display: flex;
+    justify-content: center;
+}
+.form_seance{
+    display: flex;
+    justify-content: center;
+}
+.form_abonnement{
+    display: flex;
+    justify-content: center;
+}
+.form_historique{
+    display: flex;
+    justify-content: center;
+}
+.corps button{
+    margin: 0.2em;
+}
+.corps a {
+    text-decoration: none;
+    color: black;
+}
+.title_co{
+    font-family: 'New Walt Disney Font', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.form_login{
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+}
+.form_login label, input,button{
+    margin: 0.6em;
+}
